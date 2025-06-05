@@ -86,7 +86,7 @@ view-limited-nft/
 
 | Thư viện ảnh chính                 | Popup ảnh gốc từ IPFS                     |
 |-----------------------------------|-------------------------------------------|
-| ![trả phí gas để xem ảnh](https://github.com/user-attachments/assets/2cc10edc-da39-456f-b8e7-b8c8a81c5b78)| ![sau khi trả gas sẽ được xem ảnh gốc](https://github.com/user-attachments/assets/f760f70e-af41-49fc-b92a-1eedb99eb0b6) |
+| ![Screenshot 2025-06-05 103729](https://github.com/user-attachments/assets/80029fdf-4dbe-4c39-8dd6-26823395042d)| ![image](https://github.com/user-attachments/assets/6ea28db2-d6a4-4db1-90eb-fd108ecaa926)|
 
 
 
